@@ -65,7 +65,7 @@
 
 	nav {
 		display: flex;
-		justify-content: center;
+		justify-content:left ;
 		--background: rgba(255, 255, 255, 0.7);
 	}
 
