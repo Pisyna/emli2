@@ -45,7 +45,7 @@
 	}
 
 	.corner {
-		width: 3em;
+		width: 3300em;
 		height: 3em;
 	}
 
